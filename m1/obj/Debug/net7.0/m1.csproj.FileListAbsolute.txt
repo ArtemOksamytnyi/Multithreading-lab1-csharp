@@ -1,0 +1,15 @@
+/Users/artemdwightm1/RiderProjects/m1/m1/obj/Debug/net7.0/m1.csproj.AssemblyReference.cache
+/Users/artemdwightm1/RiderProjects/m1/m1/obj/Debug/net7.0/m1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artemdwightm1/RiderProjects/m1/m1/obj/Debug/net7.0/m1.AssemblyInfoInputs.cache
+/Users/artemdwightm1/RiderProjects/m1/m1/obj/Debug/net7.0/m1.AssemblyInfo.cs
+/Users/artemdwightm1/RiderProjects/m1/m1/obj/Debug/net7.0/m1.csproj.CoreCompileInputs.cache
+/Users/artemdwightm1/RiderProjects/m1/m1/bin/Debug/net7.0/m1
+/Users/artemdwightm1/RiderProjects/m1/m1/bin/Debug/net7.0/m1.deps.json
+/Users/artemdwightm1/RiderProjects/m1/m1/bin/Debug/net7.0/m1.runtimeconfig.json
+/Users/artemdwightm1/RiderProjects/m1/m1/bin/Debug/net7.0/m1.dll
+/Users/artemdwightm1/RiderProjects/m1/m1/bin/Debug/net7.0/m1.pdb
+/Users/artemdwightm1/RiderProjects/m1/m1/obj/Debug/net7.0/m1.dll
+/Users/artemdwightm1/RiderProjects/m1/m1/obj/Debug/net7.0/refint/m1.dll
+/Users/artemdwightm1/RiderProjects/m1/m1/obj/Debug/net7.0/m1.pdb
+/Users/artemdwightm1/RiderProjects/m1/m1/obj/Debug/net7.0/m1.genruntimeconfig.cache
+/Users/artemdwightm1/RiderProjects/m1/m1/obj/Debug/net7.0/ref/m1.dll
